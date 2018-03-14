@@ -3,7 +3,7 @@ Method Exercises
 
 To solve the exercises, create a file for each exercise and run with ruby to get the result.
 
-Each problem can be solved with just one method, but not necessarily. In the end the solution should be printed to the screen with `puts`.
+Each problem _can_ be solved with just one method, but not necessarily. In the end the solution should be printed to the screen with `puts`.
 
 i.e:
 
