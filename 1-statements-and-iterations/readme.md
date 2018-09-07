@@ -11,6 +11,7 @@ These exercises are meant to be solved without the use of method definitions:
     - Print "Fizz" if the number is a multiple of 3.
     - Print "Buzz" if the number is a multiple of 5.
     - Print "FizzBuzz" if the number is a multiple of both 3 and 5.
+    - Print the number itself otherwise
 
   **3. Hash listing:**
   - Create a hash that will represent a shopping list.
