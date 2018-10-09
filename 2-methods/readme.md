@@ -25,7 +25,7 @@ puts my_method
 5. Write a method that receives two Arrays as parameters, merges them into one Array and prints the size of the merged Array.
 6. Write a method that receives one Array as parameter, if the size of the Array is `lower than 10 elements`, print the array.
   + If `it’s bigger than 10 elements`, only take the `first 10 elements` and print the Array.
-7. Write a method that takes 2 parameters, a number and an operation. The operation can be `“sum”` or `“multiply”`. Depending on the specified operation, calculate it from 1...n.
+7. Write a method that takes 2 parameters, a `number` and an `operation`. The operation can be `“sum”` or `“multiply”`. Depending on the specified operation, calculate it from 1...`number`.
   + If I pass `3` as number and  `“sum”` as operation, the function should calculate `1+2+3`.
   + If I pass `3` as number and  `“multiply”` as operation, the function should calculate `1*2*3`.
 8. Write a method that prints the `largest` element in an array, e.g. `[2, 5, 3, 1] -> 5`
